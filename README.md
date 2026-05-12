@@ -209,7 +209,7 @@ Found a bug or want to improve this? Feel free to:
 
 - **Email:** anusrig967@gmail.com
 - **GitHub:** https://github.com/AnuradhaSrinu
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** [www.linkedin.com/in/anuradha-g-3a19a4348]
 
 ## 📄 License
 
